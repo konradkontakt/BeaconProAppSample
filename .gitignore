@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+# Windows clutter
+Thumbs.db
