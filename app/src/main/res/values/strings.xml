@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BeaconProAppSample</string>
+    <string name="kontakt_io_api_key">Your_secret_API_Key</string>
 </resources>
